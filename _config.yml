@@ -1,1 +1,4 @@
+# Basic site settings
+title: My GitHub Pages Site
+description: This is a site powered by Jekyll and GitHub Pages.
 theme: jekyll-theme-cayman
